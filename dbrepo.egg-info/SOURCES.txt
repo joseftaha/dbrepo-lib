@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+dbrepo.egg-info/PKG-INFO
+dbrepo.egg-info/SOURCES.txt
+dbrepo.egg-info/dependency_links.txt
+dbrepo.egg-info/top_level.txt
